@@ -12,8 +12,6 @@ When I was starting to use OGRE, I needed a cross compatible way of handling a w
 
 Note! The code will not compile in its current state. There are some places inside the code where I have written comments, such as "Create a scene". These are parts where I have removed my own code, as these lines does not make sense without extra code (that has nothing to do about the Qt integration).
 
-## Disclaimer
-
 ## Credit
 I take no credit to the code inside this repository. Thanks to:
 
