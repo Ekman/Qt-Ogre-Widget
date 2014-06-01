@@ -6,7 +6,7 @@ Embed OGRE into a QtWidget in a cross compatible way. This widget has been teste
 * OGRE 1.9
 
 ## Usage
-This project can be compiled as a library. Then extend one of your classes using the QtOgre::WindowEventListener and implement all abstract methods. Last bootstrap the window like this:
+This project can be compiled as a library. Extend one of your classes with the QtOgre::WindowEventListener interface and implement all abstract methods. Last bootstrap the window like this:
 
 	int main(int argc, char** argv) {
 		try {
